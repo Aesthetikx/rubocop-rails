@@ -350,7 +350,7 @@
 [@forresty]: https://github.com/forresty
 [@sinsoku]: https://github.com/sinsoku
 [@pocke]: https://github.com/pocke
-[@gyfis]: https:/github.com/gyfis
+[@gyfis]: https://github.com/gyfis
 [@DNA]: https://github.com/DNA
 [@ngouy]: https://github.com/ngouy
 [@mvz]: https://github.com/mvz
